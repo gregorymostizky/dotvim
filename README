@@ -1,0 +1,14 @@
+My VIM configurations.
+
+Includes:
+
+ * pathogen
+ * vividchalk
+ * CommandT
+
+
+Usage:
+
+ * in home dir
+ * ln -snf dotvim/vim .vim
+ * ln -snf dotvim/vimrc .vimrc

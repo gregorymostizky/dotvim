@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/gregory/github/arca'
+let g:netrw_dirhist_2='/Users/gregory/github/arca/app'
+let g:netrw_dirhist_3='/Users/gregory/github/arca/app/controllers'
+let g:netrw_dirhist_4='/Users/gregory/.vim'
+let g:netrw_dirhist_5='/Users/gregory/.rvm/gems/ruby-1.9.2-p180/gems/clickatell-0.8.2/lib/clickatell'
